@@ -11,6 +11,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "725972afb0707619414156cda3b63b2da28335843b86abbd478633b13128029d"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-beginnings.pw.toml"
 hash = "be44dd0cbe8295f8e11aa2af3976370ad63e9b984f7a3bcbb0ae6780a05e5c56"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
 
 [[files]]
@@ -76,8 +86,28 @@ hash = "66c8f8fe8c3a84a171e3c39649271a6da8b6b7c0205dff878f1fe4406bcef888"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "65026277699cc4b73c3d2c57ab7aad5173f161c0d6ff95e184911826387dbdec"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "84b5ca7fcfe3b6471ae05135e59852352124caa7e3b733476862512b83ee755d"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
+metafile = true
+
+[[files]]
+file = "mods/projecte.pw.toml"
+hash = "bdca798ffe4124bf43ea13f1fa5f0593a7539762240edb56c47b1976b413ebc4"
 metafile = true
 
 [[files]]

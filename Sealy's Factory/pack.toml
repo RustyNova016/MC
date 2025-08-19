@@ -2,6 +2,7 @@ name = "create_serv"
 author = "RustyNova"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
+refresh = 1
 
 [index]
 file = "index.toml"

@@ -1,0 +1,13 @@
+name = "create_serv"
+author = "RustyNova"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d5d237ee2d72ccea13c1d6b78d2ca726ea408fe65930ac2dac6a28f80bd748c1"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.203"

@@ -1,0 +1,13 @@
+name = "Create: structures overhaul"
+filename = "create_structures_overhaul-0.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VOKKVKJQ/versions/DZ1O2jZe/create_structures_overhaul-0.2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "25096a4f3237aa2e1f1ca0d9a887a0bb380f98d81bf8871681f7e5d3fc813038e13ea3ce4793bb6196bd579442270ab402719262dee79d7cb056e8a123a37b62"
+
+[update]
+[update.modrinth]
+mod-id = "VOKKVKJQ"
+version = "DZ1O2jZe"

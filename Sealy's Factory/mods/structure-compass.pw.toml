@@ -1,0 +1,13 @@
+name = "Structure Compass"
+filename = "StructureCompass-1.21.1-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e3aZHOyh/versions/w2Q2fo1x/StructureCompass-1.21.1-4.0.1.jar"
+hash-format = "sha512"
+hash = "aa436e3d0daa1eddbee26280787a573652ceb757df99e8c5d0aa3fccbe7ce800972dd23ea90eb8aa5c1191d9f54e4921676d41749f210d1565157148a70557c9"
+
+[update]
+[update.modrinth]
+mod-id = "e3aZHOyh"
+version = "w2Q2fo1x"

@@ -6,8 +6,23 @@ hash = "ae6352055ac8adb36b9e4d2ae6bbc996e040399d032bc4a9fa5275c1c46dbf60"
 metafile = true
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "b3abe4c54a55d9ff6072a783745562dca78eeada24241314b566a52830cfe670"
+metafile = true
+
+[[files]]
+file = "mods/adorabuild-structures.pw.toml"
+hash = "645d62622dc3aa067a87b61d42aa4ebe6d6bb68f5b25f202192e2f73cc88df03"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "5594206fedc34eee3fbb11838581059d54e2e9b4ac7b92014cdf56e280f8b318"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "e63323ef22e8672030d1b6c4d10572b36c9684e76093d953f1ca4fa51d30c700"
 metafile = true
 
 [[files]]
@@ -21,6 +36,11 @@ hash = "725972afb0707619414156cda3b63b2da28335843b86abbd478633b13128029d"
 metafile = true
 
 [[files]]
+file = "mods/ati-structures-vanilla-edition.pw.toml"
+hash = "e33080af3f2dc917e8b00ab5f700fe209aa8f2a4ae049fa25fd5aa728cfa7537"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
 metafile = true
@@ -28,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
+metafile = true
+
+[[files]]
+file = "mods/carrasconlib.pw.toml"
+hash = "308c15673753d122338836df7432147d38f1c3c35f839da4b6e1c33d0190d8e8"
 metafile = true
 
 [[files]]
@@ -121,6 +151,11 @@ hash = "0d3bcce402b76cfa495a68c987e2a67a79a9bdf625a45266dec855610f1bd48e"
 metafile = true
 
 [[files]]
+file = "mods/custom-nether-portal.pw.toml"
+hash = "28d10f263915bf33beb73351624578ce85769ba8a829677b7d948a09985d80d1"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
@@ -133,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
 
 [[files]]
@@ -151,8 +191,18 @@ hash = "e79856a2e2cee31d7d0c9476b87a7f3fa99ed05c863b3372dc12171cc2b6bdfd"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "1f1c592232159b04b7009d2413eebb2b18b5a92f7d0168cd4dde2f446bf45653"
 metafile = true
 
 [[files]]
@@ -171,6 +221,11 @@ hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -178,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
+metafile = true
+
+[[files]]
+file = "mods/katters-structures.pw.toml"
+hash = "42c58ed0f48c06269e4892bdfe20fdf8b21a01a3c640a24b967c2cd3a108beba"
 metafile = true
 
 [[files]]
@@ -201,6 +261,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
@@ -221,6 +286,11 @@ hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
+metafile = true
+
+[[files]]
 file = "mods/projecte-integration.pw.toml"
 hash = "cd765fbb66f092f294436fb8577aa248bdd9167cbfc18022e20ea1eaf2da283e"
 metafile = true
@@ -228,6 +298,16 @@ metafile = true
 [[files]]
 file = "mods/projecte.pw.toml"
 hash = "bdca798ffe4124bf43ea13f1fa5f0593a7539762240edb56c47b1976b413ebc4"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "77541161200fe2283c868dd0e26d20898b01e1c590974a563f68ab9c691447de"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
@@ -246,6 +326,21 @@ hash = "64c08a5e31478c04be05f962a7dff81cd979b60d648d02d21f7cc75b615fb954"
 metafile = true
 
 [[files]]
+file = "mods/structure-compass.pw.toml"
+hash = "1c83b010c0046884d990213cd9b5ad6fad4b548268b28b8cbef5b0d458d9556a"
+metafile = true
+
+[[files]]
+file = "mods/structure-credits.pw.toml"
+hash = "12d0d7a2bd4522d394fce37639988b3ce075e714994a07ea95ffb143b6e9ffd9"
+metafile = true
+
+[[files]]
+file = "mods/structures-mdivales.pw.toml"
+hash = "3a9b838b8f1d4f4a9e3f9940b3e59159196bc8a8fe5af3be251b5bee7d054df5"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
 metafile = true
@@ -253,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/underground-village,-stoneholm.pw.toml"
 hash = "dcf4eec925d62aa912edfa472bf1f4abef58ac212d76b82da7b9ee3d29e14762"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
 metafile = true
 
 [[files]]

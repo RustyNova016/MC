@@ -1,0 +1,13 @@
+name = "Structures Médiévales"
+filename = "Structuremod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TelVpIry/versions/4tWzUEx1/Structuremod.jar"
+hash-format = "sha512"
+hash = "7d8761daad72f374decd89047745223d33c525c308fdc6cf8649d45d1e1af65d5c4186e87e199779070b2699bba073bdba63562490c81d42aca75072d2775db3"
+
+[update]
+[update.modrinth]
+mod-id = "TelVpIry"
+version = "4tWzUEx1"

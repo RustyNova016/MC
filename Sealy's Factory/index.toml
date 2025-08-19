@@ -36,6 +36,11 @@ hash = "725972afb0707619414156cda3b63b2da28335843b86abbd478633b13128029d"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/ati-structures-vanilla-edition.pw.toml"
 hash = "e33080af3f2dc917e8b00ab5f700fe209aa8f2a4ae049fa25fd5aa728cfa7537"
 metafile = true
@@ -348,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/structure-credits.pw.toml"
 hash = "12d0d7a2bd4522d394fce37639988b3ce075e714994a07ea95ffb143b6e9ffd9"
-metafile = true
-
-[[files]]
-file = "mods/structures-mdivales.pw.toml"
-hash = "3a9b838b8f1d4f4a9e3f9940b3e59159196bc8a8fe5af3be251b5bee7d054df5"
 metafile = true
 
 [[files]]

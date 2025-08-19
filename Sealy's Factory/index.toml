@@ -26,6 +26,11 @@ hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -41,6 +46,16 @@ hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
+file = "mods/create-better-villagers.pw.toml"
+hash = "3c32f2b61b848d25bd09f139e319fb78ec505b80b62b09febb70bc45eeee198a"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "59ad052e60618924abec65d1ae84e37d61c522a155eb60c90823bb9f46e96bb2"
+metafile = true
+
+[[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "1d91b46a5973bda84e2b314878693ef5df83475b95569a75b00de096edfe3df4"
 metafile = true
@@ -53,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-beginnings.pw.toml"
 hash = "be44dd0cbe8295f8e11aa2af3976370ad63e9b984f7a3bcbb0ae6780a05e5c56"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "6cf53d31ef36522ed9fd8273a94a5ca71af7cf986fc79733448f9eaa07862ac1"
 metafile = true
 
 [[files]]
@@ -81,6 +101,16 @@ hash = "2865f3ffce038a7b82d1c261bb550fbd8f2528e46b8f1849a598c1f7d6f7e2d4"
 metafile = true
 
 [[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "509f86c60cd8a8663bec8c540d3f99066ad771a789fa1dcc6aaf51773168df33"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "70ad9039a5777ca30d755a9f4d563704d0463fef549592dbbc1f47afbfd9f573"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
@@ -101,6 +131,11 @@ hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
 file = "mods/enderio.pw.toml"
 hash = "66c8f8fe8c3a84a171e3c39649271a6da8b6b7c0205dff878f1fe4406bcef888"
 metafile = true
@@ -108,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "65026277699cc4b73c3d2c57ab7aad5173f161c0d6ff95e184911826387dbdec"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+hash = "e79856a2e2cee31d7d0c9476b87a7f3fa99ed05c863b3372dc12171cc2b6bdfd"
 metafile = true
 
 [[files]]
@@ -176,8 +216,8 @@ hash = "71dba581a68de19790dd6888e515d8b693debfc915a18ffb82af473c395f4dd3"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-forge.pw.toml"
-hash = "c4ad444cece23708038591eebf695a488155f959103121d69da79feabf2e358a"
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
@@ -208,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
+file = "mods/underground-village,-stoneholm.pw.toml"
+hash = "dcf4eec925d62aa912edfa472bf1f4abef58ac212d76b82da7b9ee3d29e14762"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Underground Village, Stoneholm"
+filename = "underground_village-1.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KmyhssPl/versions/pQDtcNJj/underground_village-1.5.5.jar"
+hash-format = "sha512"
+hash = "e45b1e9b1ad63f8eeda9c434574c3af66df32427ca19a1b8910ed13570820d0aba9d1a0ce8c65d1cd8e0dc43d992818f463a094b19affe5f6245d9d5f68af3d0"
+
+[update]
+[update.modrinth]
+mod-id = "KmyhssPl"
+version = "pQDtcNJj"

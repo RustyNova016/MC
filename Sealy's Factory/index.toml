@@ -291,11 +291,6 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
-file = "mods/minetown.pw.toml"
-hash = "874714c94f061876e83afc1cd8bfe8a9a4c546188753a96556f0751e8ae7693c"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true

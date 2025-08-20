@@ -2,12 +2,11 @@ name = "create_serv"
 author = "RustyNova"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
-refresh = 1
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a665fd47b7c05326d9e1cf0d020758090444af8b8f5acc0cb7f2908af70c7542"
+hash = "eecf88ae21e8afffe763214083b2952f298571b9edd21217d5843c1af62b7f4d"
 
 [versions]
 minecraft = "1.21.1"
